@@ -5,7 +5,7 @@ Feature: Authentication
   data require full access and also require an `application key`.  **Note:**
   All Khulnasoft API clients are configured by default to consume Khulnasoft US
   site APIs. If you are on the Khulnasoft EU site, set the environment variable
-  `KHULNASOFT_HOST` to `https://api.khulnasofthq.eu` or override this value
+  `KHULNASOFT_HOST` to `https://api.khulnasoft.eu` or override this value
   directly when creating your client.  [Manage your account’s API and
   application keys](https://app.khulnasoft.com/organization-settings/) in
   Khulnasoft, and see the [API and Application Keys

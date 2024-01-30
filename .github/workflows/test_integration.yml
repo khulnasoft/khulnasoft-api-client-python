@@ -30,7 +30,7 @@ jobs:
       github.event_name == 'schedule'
     services:
       khulnasoft-agent:
-        image: gcr.io/khulnasofthq/agent:latest
+        image: gcr.io/khulnasoft/agent:latest
         ports:
           - 8126:8126
         env:

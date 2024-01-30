@@ -101,4 +101,4 @@ This section lists the labels we use to help us track and manage issues and pull
 [2]: https://github.com/KhulnaSoft/khulnasoft-api-client-python/issues/new
 [3]: https://docs.khulnasoft.com/help
 [4]: https://keepachangelog.com/en/1.0.0
-[5]: https://khulnasofthq.slack.com
+[5]: https://khulnasoft.slack.com

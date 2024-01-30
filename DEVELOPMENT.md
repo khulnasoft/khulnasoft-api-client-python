@@ -15,7 +15,7 @@ Export the following environment variables:
 **IMPORTANT**: Do not use production keys.
 
 Tests can be run againts different site (EU, staging, local):
-* `DD_TEST_SITE`: The base URL for test site (e.g. `khulnasofthq.eu`)
+* `DD_TEST_SITE`: The base URL for test site (e.g. `khulnasoft.eu`)
 
 **NOTE**: All recorded URLs will be replaced by `khulnasoft.com`. Please make sure that you do NOT leak any
 any sensitive information.

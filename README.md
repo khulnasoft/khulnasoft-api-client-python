@@ -65,7 +65,7 @@ where `<OperationName>` is the name of the method used to interact with that end
 When talking to a different server, like the `eu` instance, change the `server_variables` on your configuration object:
 
 ```python
-configuration.server_variables["site"] = "khulnasofthq.eu"
+configuration.server_variables["site"] = "khulnasoft.eu"
 ```
 
 ### Disable compressed payloads

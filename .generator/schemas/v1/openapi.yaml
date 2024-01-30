@@ -21641,7 +21641,7 @@ paths:
             - us3.khulnasoft.com
             - us5.khulnasoft.com
             - ap1.khulnasoft.com
-            - khulnasofthq.eu
+            - khulnasoft.eu
             - ddog-gov.com
           subdomain:
             default: ip-ranges
@@ -33504,7 +33504,7 @@ paths:
             - us3.khulnasoft.com
             - us5.khulnasoft.com
             - ap1.khulnasoft.com
-            - khulnasofthq.eu
+            - khulnasoft.eu
             - ddog-gov.com
           subdomain:
             default: http-intake.logs
@@ -33543,7 +33543,7 @@ servers:
       - us3.khulnasoft.com
       - us5.khulnasoft.com
       - ap1.khulnasoft.com
-      - khulnasofthq.eu
+      - khulnasoft.eu
       - ddog-gov.com
     subdomain:
       default: api
@@ -33581,7 +33581,7 @@ tags:
     that write data require reporting access and require an `API key`.\nRequests that
     read data require full access and also require an `application key`.\n\n**Note:**
     All Khulnasoft API clients are configured by default to consume Khulnasoft US site APIs.\nIf
-    you are on the Khulnasoft EU site, set the environment variable `KHULNASOFT_HOST` to\n`https://api.khulnasofthq.eu`
+    you are on the Khulnasoft EU site, set the environment variable `KHULNASOFT_HOST` to\n`https://api.khulnasoft.eu`
     or override this value directly when creating your client.\n\n[Manage your account\u2019s
     API and application keys](https://app.khulnasoft.com/organization-settings/) in
     Khulnasoft, and see the [API and Application Keys page](https://docs.khulnasoft.com/account_management/api-app-keys/)

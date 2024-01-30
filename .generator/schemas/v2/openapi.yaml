@@ -25967,7 +25967,7 @@ paths:
             - us3.khulnasoft.com
             - us5.khulnasoft.com
             - ap1.khulnasoft.com
-            - khulnasofthq.eu
+            - khulnasoft.eu
             - ddog-gov.com
           subdomain:
             default: http-intake.logs
@@ -33413,7 +33413,7 @@ servers:
       - us3.khulnasoft.com
       - us5.khulnasoft.com
       - ap1.khulnasoft.com
-      - khulnasofthq.eu
+      - khulnasoft.eu
       - ddog-gov.com
     subdomain:
       default: api
