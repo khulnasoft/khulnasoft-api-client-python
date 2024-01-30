@@ -1,0 +1,10 @@
+info:
+  description: My API description.
+  title: My API
+x-khulnasoft:
+  teamHandle: API team
+openapi: 3.0.0
+paths:
+  /api/my-api:
+    get:
+      description: An endpoint

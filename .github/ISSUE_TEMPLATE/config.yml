@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Khulnasoft Support
+    url: https://www.khulnasoft.com/support/
+    about: Our friendly, knowledgeable support engineers are here to help.
+  - name: Khulnasoft Security
+    url: https://www.khulnasoft.com/security/
+    about: We care about security. If you have any questions, or encounter any issues, please contact us.
